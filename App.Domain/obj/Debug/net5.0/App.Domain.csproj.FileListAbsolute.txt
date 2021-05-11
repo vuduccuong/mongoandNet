@@ -1,0 +1,12 @@
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\bin\Debug\net5.0\App.Domain.deps.json
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\bin\Debug\net5.0\App.Domain.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\bin\Debug\net5.0\ref\App.Domain.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\bin\Debug\net5.0\App.Domain.pdb
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\obj\Debug\net5.0\App.Domain.csprojAssemblyReference.cache
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\obj\Debug\net5.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\obj\Debug\net5.0\App.Domain.AssemblyInfoInputs.cache
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\obj\Debug\net5.0\App.Domain.AssemblyInfo.cs
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\obj\Debug\net5.0\App.Domain.csproj.CoreCompileInputs.cache
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\obj\Debug\net5.0\App.Domain.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\obj\Debug\net5.0\ref\App.Domain.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Domain\obj\Debug\net5.0\App.Domain.pdb

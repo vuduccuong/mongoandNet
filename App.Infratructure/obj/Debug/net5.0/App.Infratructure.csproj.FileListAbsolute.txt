@@ -1,0 +1,15 @@
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\bin\Debug\net5.0\App.Infratructure.deps.json
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\bin\Debug\net5.0\App.Infratructure.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\bin\Debug\net5.0\ref\App.Infratructure.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\bin\Debug\net5.0\App.Infratructure.pdb
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\obj\Debug\net5.0\App.Infratructure.csprojAssemblyReference.cache
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\obj\Debug\net5.0\App.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\obj\Debug\net5.0\App.Infratructure.AssemblyInfoInputs.cache
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\obj\Debug\net5.0\App.Infratructure.AssemblyInfo.cs
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\obj\Debug\net5.0\App.Infratructure.csproj.CoreCompileInputs.cache
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\obj\Debug\net5.0\App.Infratructure.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\obj\Debug\net5.0\ref\App.Infratructure.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\obj\Debug\net5.0\App.Infratructure.pdb
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\bin\Debug\net5.0\App.Domain.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\bin\Debug\net5.0\App.Domain.pdb
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Infratructure\obj\Debug\net5.0\App.Infratructure.csproj.CopyComplete

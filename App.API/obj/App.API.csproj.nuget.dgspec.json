@@ -1,0 +1,352 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.API\\App.API.csproj": {}
+  },
+  "projects": {
+    "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.API\\App.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.API\\App.API.csproj",
+        "projectName": "App.API",
+        "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.API\\App.API.csproj",
+        "packagesPath": "C:\\Users\\phant\\.nuget\\packages\\",
+        "outputPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Common\\App.Common.csproj": {
+                "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Common\\App.Common.csproj"
+              },
+              "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj"
+              },
+              "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Infratructure\\App.Infratructure.csproj": {
+                "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Infratructure\\App.Infratructure.csproj"
+              },
+              "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Service\\App.Service.csproj": {
+                "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Service\\App.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Common\\App.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Common\\App.Common.csproj",
+        "projectName": "App.Common",
+        "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Common\\App.Common.csproj",
+        "packagesPath": "C:\\Users\\phant\\.nuget\\packages\\",
+        "outputPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj",
+        "projectName": "App.Domain",
+        "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj",
+        "packagesPath": "C:\\Users\\phant\\.nuget\\packages\\",
+        "outputPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Infratructure\\App.Infratructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Infratructure\\App.Infratructure.csproj",
+        "projectName": "App.Infratructure",
+        "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Infratructure\\App.Infratructure.csproj",
+        "packagesPath": "C:\\Users\\phant\\.nuget\\packages\\",
+        "outputPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Infratructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Service\\App.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Service\\App.Service.csproj",
+        "projectName": "App.Service",
+        "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Service\\App.Service.csproj",
+        "packagesPath": "C:\\Users\\phant\\.nuget\\packages\\",
+        "outputPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "E:\\GITHUB\\Mongo-Netcore-Repository-Pattern\\MongoRepository\\App.Domain\\App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

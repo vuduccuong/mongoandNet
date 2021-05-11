@@ -1,0 +1,15 @@
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\bin\Debug\net5.0\App.Service.deps.json
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\bin\Debug\net5.0\App.Service.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\bin\Debug\net5.0\ref\App.Service.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\bin\Debug\net5.0\App.Service.pdb
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\bin\Debug\net5.0\App.Domain.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\bin\Debug\net5.0\App.Domain.pdb
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\obj\Debug\net5.0\App.Service.csprojAssemblyReference.cache
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\obj\Debug\net5.0\App.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\obj\Debug\net5.0\App.Service.AssemblyInfoInputs.cache
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\obj\Debug\net5.0\App.Service.AssemblyInfo.cs
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\obj\Debug\net5.0\App.Service.csproj.CoreCompileInputs.cache
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\obj\Debug\net5.0\App.Service.csproj.CopyComplete
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\obj\Debug\net5.0\App.Service.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\obj\Debug\net5.0\ref\App.Service.dll
+E:\GITHUB\Mongo-Netcore-Repository-Pattern\MongoRepository\App.Service\obj\Debug\net5.0\App.Service.pdb
